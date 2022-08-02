@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ActionHome"
+        android:title="Bosh sahifa"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/ActionSearch"
+        android:title="Qidiruv"
+        android:icon="@drawable/ic_search"/>
+    <item
+        android:id="@+id/ActionCart"
+        android:title="Buyurtma"
+        android:icon="@drawable/ic_cart"/>
+
+    <item
+        android:id="@+id/ActionProfile"
+        android:title="Profil"
+        android:icon="@drawable/ic_profile"/>
+
+</menu>
